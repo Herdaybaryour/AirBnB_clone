@@ -15,4 +15,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 * Adebayo Adebowale <bayo450@gmail.com>(https://github.com/Herdaybaryour)
-* Godswill Savwede <godswillsavwede@gmail.com>(https://github.com/Godswill Savwede)
+* Godswill Savwede <godswillsavwede@gmail.com>(https://github.com/Savwede)
